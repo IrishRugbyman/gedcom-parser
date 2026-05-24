@@ -14,7 +14,7 @@ Transform your family tree data into a format that's perfect for Large Language 
 - 🔍 **Advanced search** capabilities
 - 📊 **Comprehensive statistics** and analytics
 - 🧹 **Clean name formatting** (removes GEDCOM slashes)
-- 🧪 **Full test suite** with 95%+ coverage
+- 🧪 **Test suite** included
 
 ## 📦 Installation
 
@@ -156,8 +156,6 @@ python -m unittest tests.test_parser -v
 │   └── test_parser.py      # Unit tests
 ├── data/                   # GEDCOM files (add yours here)
 │   └── sample.ged
-├── docs/                   # Documentation
-├── requirements.txt        # Dependencies
 └── README.md              # This file
 ```
 
